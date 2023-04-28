@@ -1,2 +1,2 @@
-Hello Bob.
+Hello Alice and Bob.
 And Goodbye.
